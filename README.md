@@ -1,5 +1,5 @@
 # landfill-gas-monitoring-portfolio
-Landfill Gas Calibration &amp; monitoring Portfolio
+Landfill Gas Calibration & Monitoring Portfolio
 
 ## Project Overview
 This project demonstrates applied environmental schience skills related to landfill gas monitoring, GEM 5000 calibration, field data collection, and wellfield performance Interpretation.
@@ -12,10 +12,10 @@ The purpose of this portfolio project is to show how proper gas analyzer calibra
 -GEM5000 calibration procedure.
 -Environmental field data collection.
 -Methane, carbon dioxide, and oxygen interpretation.
-SOP development.
-Environmental compliance awareness.
+-SOP development.
+-Environmental compliance awareness.
 
-## prject Sections
+## Project Sections
 1. GEM5000 Calibration SOP.
 2. Sample Landfill Gas Data Table.
 3. Data Visualization.
