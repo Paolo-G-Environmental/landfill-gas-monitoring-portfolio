@@ -1,33 +1,28 @@
 # Environmental-Landfill Gas-portfolio
 Landfill Gas Calibration & Monitoring Portfolio
 
-## Project Overview
-This project demonstrates applied environmental schience skills related to landfill gas monitoring, GEM 5000 calibration, field data collection, and wellfield performance Interpretation.
+## Overview
+This project demonstrates applied environmental schience skills in landfill gas monitoring, GEM 5000 calibration, and data interpretation. It reflects real-world concepts used in environmental field operations.
 
-## Purpose
-The purpose of this portfolio project is to show how proper gas analyzer calibration supports accurate landfill gas readings and informed wellfield managment decisions.
+## Project Components
 
-## Skills Demonstrated
-- Landfill gas monitoring.
-- GEM5000 calibration procedure.
-- Environmental field data collection.
-- Methane, carbon dioxide, and oxygen interpretation.
-- SOP development.
-- Environmental compliance awareness.
+### 1. Calibration Procedure
+- 'gem5000_calibration_sop.md'
+- Outlines the process for calibrating a landfill gas analyzer.
 
-## Tools and Equipment
-- GEM5000 landfill gas analyzer.
-- Calibration gas.
-- Excel or Google Sheets.
-- Field logs.
-- SOP documentation.
+### 2. Sample Dataset
+- 'sample_lfg_readings.csv'
+- Simulated landfill gas readings for analysis.
 
-## Project Sections
-1. GEM5000 Calibration SOP.
-2. Sample Landfill Gas Data Table.
-3. Data Visualization.
-4. Field Interpretation Summary.
-5. Lessons Learned.
+### 3. Data Interpretation
+- 'field_interpretation_summary.md'
+- Explains how to evaluate methane, CO2, Oxygen, and pressure data.
 
-## Important Note
-This project uses generalized or sample data only. No confidential municipal, client, or employer data is included.
+## Key skills Demonstrated.
+- Landfill gas system knowledge.
+- Environmental monitoring techniques.
+- Data interpretation and analysis.
+- Technical deocumentation.
+
+## Disclaimer
+This project uses simulated and generalized data for education and portfolio purposes only. No confidential or site-specific information is included.
