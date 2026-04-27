@@ -14,6 +14,12 @@ This project demonstrates applied environmental schience skills in landfill gas 
 - 'sample_lfg_readings.csv'
 - Simulated landfill gas readings for analysis.
 
+## Data Visualization
+
+![Methane Levels](methane_chart.png)
+
+This chart displays methane concentration across selected wells. Higher methane levels generally indicate stronger landfill gas production, while lower values may suggest system inefficiencies or potential air intrustion.
+
 ### 3. Data Interpretation
 - 'field_interpretation_summary.md'
 - Explains how to evaluate methane, CO2, Oxygen, and pressure data.
