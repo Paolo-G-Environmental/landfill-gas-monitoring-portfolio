@@ -16,7 +16,7 @@ This project demonstrates applied environmental schience skills in landfill gas 
 
 ## Data Visualization
 
-(Landfill Gas Example.png)
+![Methane Levels](landfill_gas_example.png)
 
 This chart displays methane concentration across selected wells. Higher methane levels generally indicate stronger landfill gas production, while lower values may suggest system inefficiencies or potential air intrustion.
 
