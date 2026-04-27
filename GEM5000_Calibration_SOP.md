@@ -1,3 +1,5 @@
+> Note: This SOP is a generalized educational example created for portfolio purposes. It does not include confidential employer, client, municipal, or site-specific information.
+
 # GEM 5000 Calibration SOP
 
 ## Purpose
