@@ -8,12 +8,19 @@ This project demonstrates applied environmental schience skills related to landf
 The purpose of this portfolio project is to show how proper gas analyzer calibration supports accurate landfill gas readings and informed wellfield managment decisions.
 
 ## Skills Demonstrated
--Landfill gas monitoring.
--GEM5000 calibration procedure.
--Environmental field data collection.
--Methane, carbon dioxide, and oxygen interpretation.
--SOP development.
--Environmental compliance awareness.
+- Landfill gas monitoring.
+- GEM5000 calibration procedure.
+- Environmental field data collection.
+- Methane, carbon dioxide, and oxygen interpretation.
+- SOP development.
+- Environmental compliance awareness.
+
+## Tools and Equipment
+- GEM5000 landfill gas analyzer.
+- Calibration gas.
+- Excel or Google Sheets.
+- Field logs.
+- SOP documentation.
 
 ## Project Sections
 1. GEM5000 Calibration SOP.
