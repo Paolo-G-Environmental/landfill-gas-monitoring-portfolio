@@ -1,35 +1,84 @@
-# Environmental Landfill Gas Portfolio
-
-## Landfill Gas Calibration & Monitoring Project
+# Landfill Gas Monitoring & Analytics Project
 
 ## Overview
-This project demonstrates applied environmental science skills in landfill gas monitoring, GEM 5000 calibration, and data interpretation. It reflects real-world concepts used in environmental field operations.
+This project demonstrates applied environmental science skills in landfill gas monitoring, data interpretation, and operational analysis. It integrates real-world landfill gas concepts with structured data analysis to evaluate wellfield performance, identify system issues, and support informed field decision-making.
+
+The portfolio reflects practical experience aligned with landfill gas operations, environmental compliance, and infrastructure monitoring.
+
+---
 
 ## Project Components
 
 ### 1. Calibration Procedure
-- `gem5000_calibration_sop.md`  
-Outlines the process for calibrating a landfill gas analyzer.
+- `docs/gem5000_calibration_sop.md`  
 
-### 2. Sample Dataset
-- `sample_lfg_readings.csv`  
-Simulated landfill gas readings used for analysis.
+Standard operating procedure outlining the calibration process for a GEM5000 landfill gas analyzer.
 
-## Data Visualization
+---
 
-![Methane Levels](landfill_gas_example.png)
+### 2. Sample Datasets
+- `data/sample_lfg_readings.csv`  
+- `data/sample_lfg_monitoring_data.csv`  
 
-This chart displays methane concentration across selected wells. Higher methane levels generally indicate stronger landfill gas production, while lower values may suggest system inefficiencies or potential air intrusion.
+Simulated landfill gas datasets used to demonstrate monitoring, interpretation, and analytical workflows.
+
+---
 
 ### 3. Data Interpretation
-- `field_interpretation_summary.md`  
-Explains how to evaluate methane, carbon dioxide (CO2), oxygen (O2), and pressure data.
+- `reports/field_interpretation_summary.md`  
 
-## Key Skills Demonstrated
-- Landfill gas system knowledge  
-- Environmental monitoring techniques  
-- Data interpretation and analysis  
-- Technical documentation  
+Provides detailed interpretation of:
+- Methane (CH₄)
+- Carbon dioxide (CO₂)
+- Oxygen (O₂)
+- Balance gas
+- Vacuum pressure and flow conditions  
+
+Focuses on identifying:
+- Air intrusion  
+- Declining gas quality  
+- Inefficient extraction  
+- Potential condensate impacts  
+
+---
+
+### 4. Wellfield Analytics Tool
+- `src/analyze_wellfield.py`  
+
+Python-based analysis tool that evaluates landfill gas monitoring data and generates:
+
+- Operational alert flags  
+- Well health scoring  
+- Recommended field actions  
+
+#### Example Conditions Evaluated:
+- Oxygen > 5% → Potential air intrusion  
+- Methane (CH₄) < 40% → Reduced gas quality  
+- Low flow → Possible blockage or inactive well  
+- Weak vacuum → Reduced extraction efficiency  
+- Condensate issues → Maintenance required  
+
+This component demonstrates the ability to translate raw environmental data into actionable insights.
+
+---
+
+## Data Visualization
+![Landfill Gas Example](images/landfill_gas_example.png)
+
+This chart illustrates methane concentration trends across selected wells. Higher methane levels generally indicate strong gas production, while lower values may suggest system inefficiencies or potential air intrusion.
+
+---
+
+## Why This Project Matters
+Effective landfill gas management is critical for:
+- Maintaining regulatory compliance  
+- Reducing greenhouse gas emissions  
+- Optimizing gas collection efficiency  
+- Protecting infrastructure systems  
+
+This project demonstrates the ability to bridge **field operations and data-driven analysis**, a key skill in environmental consulting, municipal operations, and infrastructure management roles.
+
+---
 
 ## Disclaimer
 > This project uses simulated and generalized data for educational and portfolio purposes only. No confidential or site-specific information is included.
