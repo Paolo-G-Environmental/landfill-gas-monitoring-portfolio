@@ -77,9 +77,6 @@ This chart illustrates methane concentration trends across selected wells. Highe
 ### Oxygen Concentration by Well
 ![Oxygen by Well](outputs/oxygen_by_well.png)
 
-### Well Health Score
-![Methane by Well](outputs/well_health_score.png)
-
 These charts are generated from the Python analysis script and provide a visual evaluation of landfill gas quality, potential air intrusion, and overall wellfield performance.
 
 ---
