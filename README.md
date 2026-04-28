@@ -75,7 +75,7 @@ This chart illustrates methane concentration trends across selected wells. Highe
 ![Methane by Well](outputs/methane_by_well.png)
 
 ### Oxygen Concentration by Well
-![Methane by Well](outputs/methane_by_well.png)
+![Oxygen by Well](outputs/oxygen_by_well.png)
 
 ### Well Health Score
 ![Methane by Well](outputs/well_health_score.png)
