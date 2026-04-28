@@ -67,6 +67,14 @@ This component demonstrates the ability to translate raw environmental data into
 
 This chart illustrates methane concentration trends across selected wells. Higher methane levels generally indicate strong gas production, while lower values may suggest system inefficiencies or potential air intrusion.
 
+## Generated Analysis Charts
+The Python analysis script generates additional chars in the `outputs/` folder:
+- `outputs/methane_by_well.png`
+- `outputs/oxygen_by_well.png`
+- `outputs/well_health_score.png`
+
+These charts help evaluate landfill gas quality, potential air intrusion, and overall wellfield performance.
+
 ---
 
 ## Why This Project Matters
