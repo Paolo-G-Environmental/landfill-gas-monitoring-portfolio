@@ -16,7 +16,7 @@ This log demonstrates how landfill gas monitoring data can be translated into re
 Well is operating within expected parameters.
 
 **Action:**
--No adjustment required
+- No adjustment required
 Continue routine monitoring
 
 ---
@@ -29,9 +29,9 @@ Continue routine monitoring
 - Condensate: Possible
 
 **Assessment:**
--Inspect condensate sump and piping
-Verify pump operation
-Monitor for further flow reduction
+- Inspect condensate sump and piping
+- Verify pump operation
+- Monitor for further flow reduction
 
 ---
 
@@ -46,31 +46,31 @@ Monitor for further flow reduction
 High likelihood air intrusion and reduced gas quality.
 
 **Action:**
--Reduce vacuum incrementally to limit air intrusion
-Inspect wellhead seals and connections
-Check for cracks or leaks in piping
-Re-evaluate after adjustment
+- Reduce vacuum incrementally to limit air intrusion
+- Inspect wellhead seals and connections
+- Check for cracks or leaks in piping
+- Re-evaluate after adjustment
 
 ---
 
 ## General Decision Framework
 
 ### Air Inrusion (O₂ > 5%)
--Reduce vacuum
-Inspect well integrity
-Check for leaks or damaged seals
+- Reduce vacuum
+- Inspect well integrity
+- Check for leaks or damaged seals
 
 ### Low methane (CH₄ < 40%)
--Evaluate extraction rate
-check for over-pulling
-assess waste decomposition stage
+- Evaluate extraction rate
+- Check for over-pulling
+- Assess waste decomposition stage
 
 ### Low Flow (< 20 SCFM)
--Evaluate blower performance
-Inspect system balance
-Check for line restrictions
+- Evaluate blower performance
+- Inspect system balance
+- Check for line restrictions
 
 ### Condensate Issues
--Inspect sumps and pumps
-Verify drainage
-Remove liquid obstructions
+- Inspect sumps and pumps
+- Verify drainage
+- Remove liquid obstructions
