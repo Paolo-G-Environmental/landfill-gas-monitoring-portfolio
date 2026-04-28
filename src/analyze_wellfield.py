@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv("data/sample_lfg_readings.csv")
+df = pd.read_csv("data/sample_lfg_monitoring_data.csv")
 
 def classify_alert(row):
   if row["oxygen_percent"] > 5:
