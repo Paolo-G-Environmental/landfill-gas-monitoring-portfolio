@@ -5,7 +5,7 @@ This log demonstrates how landfill gas monitoring data can be translated into re
 
 ---
 
-## Well Gw-01 - Normal Operation
+## Well GW-01 - Normal Operation
 **Conditions:**
 - CH₄ = 50%+
 - O₂ = < 3%
