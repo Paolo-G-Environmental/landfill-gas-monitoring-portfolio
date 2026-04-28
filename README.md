@@ -63,7 +63,7 @@ This component demonstrates the ability to translate raw environmental data into
 ---
 
 ### 5. Field Decsion Log
-- `reports/field)decision_log.md`
+- `reports/field_decision_log.md`
 
 Demonstrates how landfill gas monitoring data is translated into real-world field decisions and operational adjustments.
 
